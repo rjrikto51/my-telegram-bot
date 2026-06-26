@@ -4,7 +4,7 @@ from flask import Flask
 from threading import Thread
 
 # আপনার নতুন টোকেনটি এখানে বসান (BotFather থেকে নতুন টোকেন নিয়ে নিন)
-API_TOKEN = 'YOUR_NEW_TOKEN_HERE' 
+API_TOKEN = '7536008073:AAGJDOATmdzsJh7SzKI3hO8uWnmqdZPyLFo' 
 bot = telebot.TeleBot(API_TOKEN)
 
 # রেন্ডারে পোর্ট ধরে রাখার জন্য ওয়েব সার্ভার
