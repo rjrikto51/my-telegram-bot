@@ -2,7 +2,7 @@ import sqlite3
 import telebot
 
 # আপনার প্রদত্ত API টোকেন
-API_TOKEN = '7536008073:AAGD4M4NwYaBTgnrFLcjXwnMBqeInvJ8wpE'
+API_TOKEN = '7536008073:AAGJDOATmdzsJh7SzKI3hO8uWnmqdZPyLFo'
 bot = telebot.TeleBot(API_TOKEN)
 
 # ডাটাবেজ কানেকশন তৈরি
